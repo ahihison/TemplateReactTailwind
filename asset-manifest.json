@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TemplateReactTailwind/static/css/main.efee31d4.css",
+    "main.js": "/TemplateReactTailwind/static/js/main.913a0df3.js",
+    "static/media/isocard.svg": "/TemplateReactTailwind/static/media/isocard.8162d70aafa5b3c9dd11776960c17d02.svg",
+    "index.html": "/TemplateReactTailwind/index.html",
+    "static/media/checkpoint.svg": "/TemplateReactTailwind/static/media/checkpoint.e6fb772578b79e07d821b8839c859a38.svg",
+    "main.efee31d4.css.map": "/TemplateReactTailwind/static/css/main.efee31d4.css.map",
+    "main.913a0df3.js.map": "/TemplateReactTailwind/static/js/main.913a0df3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.efee31d4.css",
+    "static/js/main.913a0df3.js"
+  ]
+}
